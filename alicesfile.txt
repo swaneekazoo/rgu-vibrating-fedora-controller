@@ -1,1 +1,2 @@
 if onHead vibrate()
+else dont()
