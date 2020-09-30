@@ -1,1 +1,2 @@
 if !pulse stopVibrating()
+else dont()
